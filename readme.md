@@ -12,7 +12,7 @@ A real-time data processing system to monitor weather conditions and provide sum
 
 ### Clone the GitHub repository
 ```bash
-git clone https://github.com/yeshsingh/Zeotap.git
+git clone https://github.com/yeshsingh/Zeotap-assignment
 
 ### For assignment 1
     cd zeotap-assignment/APPLICATION1
